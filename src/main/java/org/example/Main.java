@@ -60,6 +60,8 @@ public class Main {
         //Изменениея в мастере
         // Это новая ветка и отдельный  2 коммит
 
+        //Изменения для REBASE
+
 //        ScheduledExecutorService executor = new ScheduledThreadPoolExecutor(
 //                5,
 //                r -> {
