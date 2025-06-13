@@ -57,6 +57,7 @@ public class Main {
         executor.shutdown();
         System.out.println(counterA.get() + " "+ counterB.get());
         // Это новая ветка и отдельный  1 коммит
+        //Изменениея в мастере
 
 //        ScheduledExecutorService executor = new ScheduledThreadPoolExecutor(
 //                5,
